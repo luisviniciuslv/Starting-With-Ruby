@@ -1,3 +1,3 @@
 puts "Qual seu nome?"
 nome = gets
-puts "Começarei o jogo: " + nome
+puts "Olá " + nome
