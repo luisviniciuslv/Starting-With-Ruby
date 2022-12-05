@@ -4,4 +4,10 @@ def count(max)
   end
 end
 
-count(4)
+
+def return_4
+  num = 4
+  num
+end
+
+puts return_4
